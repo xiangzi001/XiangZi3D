@@ -1,0 +1,20 @@
+﻿  main.cpp
+D:\[1]xiao xiang\d. c++\{8}3D\xiangzi\include\xiangzi\XiangZi3D.h(29,1): warning C4005: “PlaySound”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\playsoundapi.h(120,1): message : 参见“PlaySound”的前一个定义
+D:\[1]xiao xiang\d. c++\{8}3D\xiangzi\include\xiangzi\XiangZi3D.h(30,1): warning C4005: “MessageBox”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(9169,1): message : 参见“MessageBox”的前一个定义
+D:\[1]xiao xiang\d. c++\{8}3D\xiangzi\include\xiangzi\XiangZi3D\Timer.h(24,30): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+D:\[1]xiao xiang\d. c++\{8}3D\xiangzi\include\xiangzi\XiangZi3D\Window.h(16,3): warning C4002: 类函数宏的调用“MessageBox”参数过多
+D:\[1]xiao xiang\d. c++\{8}3D\xiangzi\include\xiangzi\XiangZi3D\Scene.h(101,9): warning C4002: 类函数宏的调用“MessageBox”参数过多
+D:\[1]xiao xiang\d. c++\{8}3D\xiangzi\include\xiangzi\XiangZi3D\Scene.h(141,9): warning C4002: 类函数宏的调用“MessageBox”参数过多
+D:\[1]xiao xiang\d. c++\{8}3D\xiangzi\include\xiangzi\XiangZi3D\Scene.h(153,9): warning C4002: 类函数宏的调用“MessageBox”参数过多
+D:\[1]xiao xiang\d. c++\{8}3D\xiangzi\include\xiangzi\XiangZi3D\Scene.h(175,9): warning C4002: 类函数宏的调用“MessageBox”参数过多
+D:\[1]xiao xiang\d. c++\{8}3D\xiangzi\include\xiangzi\XiangZi3D\Scene.h(180,9): warning C4002: 类函数宏的调用“MessageBox”参数过多
+D:\[1]xiao xiang\d. c++\{8}3D\xiangzi\main.cpp(37,39): warning C4305: “参数”: 从“double”到“float”截断
+D:\[1]xiao xiang\d. c++\{8}3D\xiangzi\main.cpp(39,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码
+  1 of 250 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  xiangzi-3D.vcxproj -> D:\[1]xiao xiang\d. c++\{8}3D\xiangzi\Release\xiangzi-3D.exe

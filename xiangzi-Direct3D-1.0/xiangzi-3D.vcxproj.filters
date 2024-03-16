@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="头文件\xiangzi">
+      <UniqueIdentifier>{d28b68dd-2286-4b23-a5a9-07ca8fe388f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\xiangzi\XiangZi3D">
+      <UniqueIdentifier>{cb323b3f-7e8a-4636-bf37-ab4ff597d6d3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\xiangzi.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\xiangzi\XiangZiWinBase.h">
+      <Filter>头文件\xiangzi</Filter>
+    </ClInclude>
+    <ClInclude Include="include\xiangzi\XiangZi3D.h">
+      <Filter>头文件\xiangzi</Filter>
+    </ClInclude>
+    <ClInclude Include="include\xiangzi\XiangZi3D\Base.h">
+      <Filter>头文件\xiangzi\XiangZi3D</Filter>
+    </ClInclude>
+    <ClInclude Include="include\xiangzi\XiangZi3D\Draw.h">
+      <Filter>头文件\xiangzi\XiangZi3D</Filter>
+    </ClInclude>
+    <ClInclude Include="include\xiangzi\XiangZi3D\Texture.h">
+      <Filter>头文件\xiangzi\XiangZi3D</Filter>
+    </ClInclude>
+    <ClInclude Include="include\xiangzi\XiangZi3D\Load.h">
+      <Filter>头文件\xiangzi\XiangZi3D</Filter>
+    </ClInclude>
+    <ClInclude Include="include\xiangzi\XiangZi3D\Timer.h">
+      <Filter>头文件\xiangzi\XiangZi3D</Filter>
+    </ClInclude>
+    <ClInclude Include="include\xiangzi\XiangZi3D\Window.h">
+      <Filter>头文件\xiangzi\XiangZi3D</Filter>
+    </ClInclude>
+    <ClInclude Include="include\xiangzi\XiangZi3D\Key.h">
+      <Filter>头文件\xiangzi\XiangZi3D</Filter>
+    </ClInclude>
+    <ClInclude Include="include\xiangzi\XiangZi3D\List.h">
+      <Filter>头文件\xiangzi\XiangZi3D</Filter>
+    </ClInclude>
+    <ClInclude Include="include\xiangzi\XiangZi3D\Color.h">
+      <Filter>头文件\xiangzi</Filter>
+    </ClInclude>
+    <ClInclude Include="include\xiangzi\XiangZi3D\New.h">
+      <Filter>头文件\xiangzi\XiangZi3D</Filter>
+    </ClInclude>
+    <ClInclude Include="include\xiangzi\XiangZi3D\Scene.h">
+      <Filter>头文件\xiangzi\XiangZi3D</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="xiangzi-3D.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\{2}mine - windows - C++\mine-xiangzi\.icon\mine-window.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
